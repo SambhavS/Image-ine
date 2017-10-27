@@ -2,8 +2,8 @@
 Recreates a square image by combining tinted mini-images.
 
 # Example
-<img src="https://github.com/SambhavS/Image-ine/master/new__anton.jpg" width="50%">
-<img src="https://github.com/SambhavS/Image-ine/master/new__anton40.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/SambhavS/Image-ine/master/new__anton.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/SambhavS/Image-ine/master/new__anton40.jpg" width="50%">
 
 # Usage
 `$python imageine.py `
