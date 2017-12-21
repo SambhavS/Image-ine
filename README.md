@@ -1,5 +1,5 @@
 # Image-ine
-Recreates a square image by combining tinted mini-images.
+Image-ine is a recursive image generator. Recreates a square image by combining tinted mini-images.
 
 # Example
 Original image
