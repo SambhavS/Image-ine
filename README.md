@@ -1,7 +1,7 @@
 # Image-ine
 Image-ine is a recursive image generator. Recreates a square image by combining tinted mini-images.
 
-# Example
+## Example
 Original image
 
 
@@ -18,7 +18,7 @@ Outputted image, made of 40x40 (1600) mini-images
 <img src="https://raw.githubusercontent.com/SambhavS/Image-ine/master/new__anton40.jpg" width="50%">
 
 
-# Usage
+## Usage
 `$python imageine.py `
 
 
